@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: LinXiaojun&Kimgunwoo		#网站标题
+title: 云销雨霁		#网站标题
 subtitle: 粮仓 #网站副标题
 description: 个人产出汇总及粮仓 #网站描述description 主要用于5E0，告诉搜索引擎一个关于您站点的简单描述
 keywords: [HTML, CSS, JavaScript, JQuery, java, linux等]		#网站的关键词。使用半角逗号“，”分隔多个关键词
-author: Raingoaway			#您的名字
+author: 王勃诗词爱好者			#您的名字
 language: zh-CN			#网站使用的语言。建议修改为zh-CN
 timezone:			#网站时区。Hexo默认使用您电脑的时区。
 
